@@ -1,0 +1,22 @@
+body{
+    font-family: 'Roboto Mono', monospace;
+    background-image: url(assets/img/bigsur.jpg);
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: auto;
+    background-position: center;
+
+
+}
+a{
+    font-size: 20px;
+    color: pink;
+}
+ol{
+    font-size: 20px;
+    color: aqua;
+    
+}
+h1{
+    color: pink;
+}
