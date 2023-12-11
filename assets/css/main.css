@@ -1,22 +1,27 @@
-body{
-    font-family: 'Roboto Mono', monospace;
-    background-image: url(assets/img/bigsur.jpg);
-    background-repeat: no-repeat;
-    width: 100vw;
-    height: auto;
-    background-position: center;
-
-
-}
 a{
     font-size: 20px;
-    color: pink;
+    color: white;
 }
 ol{
     font-size: 20px;
-    color: aqua;
+    color: white;
     
 }
 h1{
-    color: pink;
+    color: whitesmoke;
+}
+
+img.telfoto{
+    display: block;
+    height: 90%;
+    left: 30%;
+    position: absolute;
+    top: 1%;
+    width: auto;
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Silkscreen', sans-serif;
+    font-family: 'Whisper', cursive;
 }
